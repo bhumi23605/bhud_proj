@@ -1,10 +1,1 @@
-# bhud_proj
-This is a stone,paper,scissors game
-
-Enjoy the game!
-:)
-
-This also has a tic tac toe game.
-
-
-Also there is my first ML model , trained and tested well.
+This is an ML-Project which compares the outputs of Linear Regression and Random Forest Regressor models on the solubility dataset.
